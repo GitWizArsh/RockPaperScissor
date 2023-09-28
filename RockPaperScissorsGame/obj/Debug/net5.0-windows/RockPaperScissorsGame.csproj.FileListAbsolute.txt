@@ -1,0 +1,57 @@
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.exe
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.deps.json
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.runtimeconfig.json
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.runtimeconfig.dev.json
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.dll
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\ref\RockPaperScissorsGame.dll
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.pdb
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.AssemblyReference.cache
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.Form1.resources
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.Resources.resources
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.GenerateResource.cache
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.AssemblyInfoInputs.cache
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.AssemblyInfo.cs
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.dll
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\ref\RockPaperScissorsGame.dll
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.pdb
+C:\2370\ws\w1-sec6\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.genruntimeconfig.cache
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.exe
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.deps.json
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.runtimeconfig.json
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.runtimeconfig.dev.json
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.dll
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\ref\RockPaperScissorsGame.dll
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.pdb
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.AssemblyReference.cache
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.Form1.resources
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.Resources.resources
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.GenerateResource.cache
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.AssemblyInfoInputs.cache
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.AssemblyInfo.cs
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.dll
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\ref\RockPaperScissorsGame.dll
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.pdb
+D:\Prog 2230\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.genruntimeconfig.cache
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.exe
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.deps.json
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.runtimeconfig.json
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.runtimeconfig.dev.json
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.dll
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\net5.0-windows\RockPaperScissorsGame.pdb
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.AssemblyReference.cache
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.Form1.resources
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.Resources.resources
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.GenerateResource.cache
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.AssemblyInfoInputs.cache
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.AssemblyInfo.cs
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.dll
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\refint\RockPaperScissorsGame.dll
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.pdb
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\RockPaperScissorsGame.genruntimeconfig.cache
+D:\Prog 2230 & 2370\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\net5.0-windows\ref\RockPaperScissorsGame.dll
